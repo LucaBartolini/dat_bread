@@ -1,11 +1,11 @@
 ## Ingredients
-450g Whole Wheat 
-450g High Protein
-100g Rye
-775g water (lukewarm)
-22g salt
-~60g mature starter (i make no *levain* and I use enough to have the dough ready for the cold proofing in the evening)
-[optional] 5g malt (barley, diastatic)  
+- 450g Whole Wheat 
+- 450g High Protein
+- 100g Rye
+- 775g water (lukewarm)
+- 22g salt
+- ~60g mature starter (i make no *levain* and I use enough to have the dough ready for the cold proofing in the evening)
+- [optional] 5g malt (barley, diastatic)  
  
 ## Process 
 - (usually in the morning) Mix all the ingredients at once (no autolysis or extra care - tryna be efficient here)
